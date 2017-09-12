@@ -1,5 +1,6 @@
 ---
 title: Norderstraßenfest
+date: 20.9.2017
 ---
 Am vergangen Sonntag dem 18. September fand das Norderstraßenfest, wie man sich fast denken kann, in der Norderstraße statt.
 Da wir nun als Choastreff auch Teil der Straße sind haben wir auch wie viele andere unsere „Sachen“ auf die Straße gestellt.
