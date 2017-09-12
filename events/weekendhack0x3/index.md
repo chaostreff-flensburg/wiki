@@ -1,6 +1,6 @@
-# weekendHACK 0x3
-> 03.11-05.11.2017
-
+---
+title: weekendHACK 0x3
+---
 Unser dritter WeekendHack steht vor der Tür. 
 Vom 3.11. bis zum 5.11.2017 fallen wir zum dritten mal in das Technologiezentrum ein. 
 

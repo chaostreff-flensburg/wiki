@@ -1,5 +1,6 @@
-Mitmachen
-===
+---
+title: Mitmachen
+---
 
 ## Mitgliedwerd
 
