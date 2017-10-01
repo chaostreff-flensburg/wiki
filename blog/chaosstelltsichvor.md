@@ -14,12 +14,12 @@ Ein wahrer Eyecatcher waren unsere 3D-Drucker. Die zahlreichen gedruckten Vasen 
 
 Auch der Textil-Druck mit dem Siebdruck sollte nicht zu kurz kommen. Neben alten Klassikern haben wir auch neue Motive gedruckt und konnten das auch wieder als Erfolg für uns verbuchen. Nur mit der Wärme hatten wir unsere Probleme, denn Farben trocknen bei Sommertemperaturen viel schneller, als wir es erwartet hatten. Beim nächsten Mal werden wir auf jeden Fall verstärkt auf das schnelle Auswaschen der Siebe achten.
 
- 
+
 
 Neben dem Siebdruck hatten wir auch unsere Stickmaschine im Einsatz. Der Name ist Programm und so konnten wir verschiedene Motive wie Schriftzüge oder Abzeichen auf T-Shirts und Jacken sticken. Dafür wird es auch am 20. August eine Einführung von uns im Phänomenta-Space geben. Mehr Infos und Daten zur Anmeldung findet ihr auf unserer Website.
 
 Ebenfalls gab es einen Stand, an dem sich Jung und Alt an verschiedener Elektronik ausprobieren konnte. Den ganzen Tag über haben wir über 30 Drawbots gebaut und konnten so die Faszination der Elektronik weitergeben. Kurz gesagt ist ein Drawbot ein Roboter, der auf Filzstiften steht und sich mithilfe eines Elektromotors bewegt und so Muster auf Papier malt.
 
- 
+
 
 Generell können wir sagen, dass sich der Tag gelohnt hat! Deswegen gibt es auch eine Wiederholung am 27. August. Wir werden gegen Mittag anfangen. Das Angebot wird ähnlich sein und sobald es feststeht, bekannt gegeben. Falls ihr euch all das nochmal ansehen wollt, gibt es jeden Dienstag unser “Open Space” Treffen, wo ihr ab 19:00 einfach vorbeikommen könnt!

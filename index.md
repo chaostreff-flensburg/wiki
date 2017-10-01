@@ -11,4 +11,4 @@ Wenn du uns kennen lernen möchtest schaue doch mal Dienstags Abends in unserem 
 
 Hier gibt es bald wieder mehr zu sehen. Bis dahin: Schau doch mal auf eine Mate bei uns im Space vorbei.
 
-[mail@chaostreff-flensburg.de](mailto:mail@chaostreff-flensburg.de)[Impressum](/impressum.md)
+[mail@chaostreff-flensburg.de](mailto:mail@chaostreff-flensburg.de) [Impressum](/impressum.md)
