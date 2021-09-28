@@ -1,7 +1,7 @@
-logo = true
-logoText = "ZDoc"
+logo = false
+logoText = "Chaostreff Flensburg Wiki"
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site."
+description = "Wiki Chaostreff Flensburg"
 
 themeOptions = ["light", "dark"]
 
@@ -11,7 +11,7 @@ enableTocSwitch = true
 enableLandingBackground = false
 enableSearch = true
 enableSearchHighlight = true
-enableLangChange = true
+enableLangChange = false
 enableDarkMode = true
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
@@ -27,7 +27,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zdoc"
+github = "https://github.com/chaostreff-flensburg/wiki"
 
 # comment
 enableComment = false

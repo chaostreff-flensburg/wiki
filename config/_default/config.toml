@@ -2,7 +2,7 @@ baseURL = "https://chaostreff-flensburg.github.io/wiki/"
 title = "Chaostreff Flensburg Wiki"
 theme = "zdoc"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
