@@ -1,5 +1,5 @@
-baseURL = "http://example.org"
-title = "Hugo Zdoc Theme"
+baseURL = "https://chaostreff-flensburg.github.io/wiki/"
+title = "Chaostreff Flensburg Wiki"
 theme = "zdoc"
 
 defaultContentLanguage = "en"
