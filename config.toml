@@ -1,4 +1,4 @@
-baseURL = 'https://chaostreff-flensburg.github.io/wiki/'
+baseURL = 'https://wiki.chaostreff-flensburg.de/'
 languageCode = 'en-us'
 title = 'Chaostreff Wiki'
 theme = "exampleTheme"
