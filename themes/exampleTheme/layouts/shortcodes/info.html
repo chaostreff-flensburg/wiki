@@ -1,0 +1,81 @@
+<div style="width: 40%;float:right; padding-left: 20px; padding-bottom: 10px;">
+    <div class="card" >
+      {{ with .Get "img" }} <img src="{{ . }}" class="card-img-top" alt="Project Bild">{{ end }}
+        <div class="card-body">
+          <h5 class="card-title">{{ with .Get "name" }} {{ . }} {{ end }}</h5>
+          <ol class="list-group">
+            {{ with .Get "mail" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">E-Mail</div>
+                {{ . }}
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "webpage" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Webpage</div>
+                <a href="https://{{ . }}">{{ . }}</a>
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "twitter" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Twitter</div>
+                <a href="https://twitter.com/{{ . }}">@{{ . }}</a>
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "instagram" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Instagram</div>
+                <a href="https://instagram.com/{{ . }}">@{{ . }}</a>
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "mastodon" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Mastadone</div>
+                {{ . }}
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "mastodon" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Mastadone</div>
+                {{ . }}
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "ort" }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Ort</div>
+                {{ . }}
+              </div>
+            </li>
+            {{ end }}
+            {{ with .Get "contact" }}
+            {{ $cons := split . "," }}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Ansprechpartner*innen</div>
+                <ul>
+                  {{ range $cons}}
+                  <li><a href="/user/{{ . }}/">{{ . }}</a></li>
+                  {{ end }}
+                </ul>
+              </div>
+            </li>
+            {{ end }}
+          </ol>
+        </div>
+      </div>
+</div>
+
+

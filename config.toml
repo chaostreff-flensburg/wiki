@@ -1,3 +1,40 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Chaostreff Wiki'
+theme = "exampleTheme"
+
+[taxonomies]
+  category = 'categories'
+
+[params.startpage.group.one]
+  name = "Verein"
+  categories = [ "chaostreff", "räume", "kommunikation", "verein" ]
+
+[params.startpage.group.two]
+  name = "Infrastuktur und Projekte"
+  categories = [ "werkzeug", "netzwerk", "projekte"]
+
+[params.footer.link.service.nextcloud]
+  name = "Nextcloud"
+  url = "https://cloud.chaostreff-flensburg.de/"
+
+[params.footer.link.service.codimd]
+  name = "Codi MD"
+  url = "https://md.ctfl.space/"
+
+[params.footer.link.treff.webpage]
+  name = "Webseite"
+  url = "https://chaostreff-flensburg.de/"
+
+[params.footer.link.treff.wiki]
+  name = "Wiki"
+  url = "https://wiki.chaostreff-flensburg.de/"
+
+[params.footer.link.treff.github]
+  name = "Github"
+  url = "https://github.com/chaostreff-flensburg/"
+
+[params.footer.link.treff.flickr]
+  name = "Flickr"
+  url = "https://www.flickr.com/photos/157585171@N05/"
+  

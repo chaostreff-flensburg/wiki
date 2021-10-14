@@ -1,0 +1,36 @@
+<div class="container">
+    <footer class="row row-cols-5 py-5 my-5 border-top">
+      <div class="col">
+        <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
+          <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+        </a>
+        <p class="text-muted">&copy; 2021</p>
+      </div>
+  
+      <div class="col">
+  
+      </div>
+  
+      <div class="col">
+        </div>
+  
+      <div class="col">
+        <h5>Dienste</h5>
+        <ul class="nav flex-column">
+          {{ range $key, $value := .Site.Params.Footer.Link.Service}}
+            <li class="nav-item mb-2"><a href="{{ $value.URL }}" class="nav-link p-0 text-muted">{{ $value.Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+  
+      <div class="col">
+        <h5>Chaostreff</h5>
+        <ul class="nav flex-column">
+          {{ range $key, $value := .Site.Params.Footer.Link.Treff}}
+            <li class="nav-item mb-2"><a href="{{ $value.URL }}" class="nav-link p-0 text-muted">{{ $value.Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </footer>
+  </div>
+  

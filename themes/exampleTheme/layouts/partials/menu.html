@@ -1,0 +1,22 @@
+<div class="flex-shrink-0 p-3 bg-white" style="width: 280px;">
+    <a href="/" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
+      <svg class="bi me-2" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
+      <span class="fs-5 fw-semibold">Wiki</span>
+    </a>
+    <ul class="list-unstyled ps-0">
+        {{ range $key, $value := .Site.Taxonomies.categories }}
+          <li class="mb-1">
+            <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#{{ $key }}-collapse" aria-expanded="false">
+                {{ $key | title }}
+            </button>
+            <div class="collapse {{ if in $.Params.categories $key }}show{{ end }}" id="{{ $key }}-collapse">
+              <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                {{ range  where .Pages ".Params.categories" "intersect" (slice $key) }}
+                    <li><a href="{{ .Permalink }}" class="link-dark rounded">{{ .Title }}</a></li>
+                {{ end }}
+              </ul>
+            </div>
+          </li>
+        {{ end }}
+    </ul>
+  </div>

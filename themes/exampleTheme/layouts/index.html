@@ -1,0 +1,65 @@
+{{ define "main" }}
+<div class="row " style="padding-bottom: 50px;padding-top:30px;">
+    <div class="col-md-12" >
+        <div class="text-center">
+        <h1 class="display-4 fw-bold lh-1 mb-3">Wiki</h1>
+        <h6>All das Wissen</h6>
+    </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <div class="card" style="min-height: 100%;">
+            <div class="card-header">
+                {{ .Site.Params.startpage.group.one.name }}
+            </div>
+            <div class="card-body">
+                {{ range $key, $value := .Site.Params.startpage.group.one.categories}}
+                <b>{{ $value | title}}</b>
+                <ul>
+                    {{ range  where $.Site.Pages ".Params.categories" "intersect" (slice $value) }}
+                    <li><a href="{{ .Permalink }}" class="link-dark rounded">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </div> 
+    </div>
+    <div class="col-md-4">
+        <div class="card" style="min-height: 100%;">
+            <div class="card-header">
+                {{ .Site.Params.startpage.group.two.name }}
+            </div>
+            <div class="card-body">
+                {{ range $key, $value := .Site.Params.startpage.group.two.categories}}
+                <b>{{ $value | title}}</b>
+                <ul>
+                    {{ range  where $.Site.Pages ".Params.categories" "intersect" (slice $value) }}
+                    <li><a href="{{ .Permalink }}" class="link-dark rounded">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </div> 
+    </div>
+    <div class="col-md-4">
+        <div class="card" style="min-height: 100%;">
+            <div class="card-header">
+              Stuff
+            </div>
+            <div class="card-body">
+                {{ range $key, $value := .Site.Taxonomies.categories }}
+                    {{ if and (not (in $.Site.Params.startpage.group.one.categories $key)) (not (in $.Site.Params.startpage.group.two.categories $key)) }}
+                    <b>{{ $key | title  }}</b>
+                    <ul>
+                        {{ range  where .Pages ".Params.categories" "intersect" (slice $key) }}
+                        <li><a href="{{ .Permalink }}" class="link-dark rounded">{{ .Title  }}</a></li>
+                    {{ end }}  
+                    </ul>
+                    {{ end }}
+                {{ end }}
+            </div>
+          </div>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="row">
+    <div class="col-md-3">
+        {{ partial "menu.html" . }}
+    </div>
+    <div class="col-md-9">
+        <h1>{{ .Title }}</h1>
+        <br><br>
+        {{ .Content }}
+    </div>
+</div>
+{{ end }}
