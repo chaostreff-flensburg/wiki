@@ -7,6 +7,11 @@
         <h1>{{ .Title }}</h1>
         <br><br>
         {{ .Content }}
+        <hr>
+        Tags:
+        {{ range .Params.tags }}
+            <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/">#{{ . }}</a>, 
+        {{ end }}
     </div>
 </div>
 {{ end }}

@@ -5,6 +5,7 @@ theme = "exampleTheme"
 
 [taxonomies]
   category = 'categories'
+  tag = 'tags'
 
 [params.startpage.group.one]
   name = "Verein"

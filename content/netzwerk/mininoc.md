@@ -2,7 +2,6 @@
 title: "MiniNoc"
 date: 2020-01-26T23:11:13Z
 draft: false
-tags: ["foo", "bar"]
 categories: ["netzwerk"]
 ---
 {{< info name="MiniNoc" img="/netzwerk/mininoc.jpg" contact="fpfle" >}}

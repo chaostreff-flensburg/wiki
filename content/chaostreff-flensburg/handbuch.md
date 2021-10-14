@@ -2,7 +2,7 @@
 title: "Handbuch"
 date: 2020-01-26T23:11:13Z
 draft: false
-tags: ["foo", "bar"]
+tags: ["neumitglieder"]
 categories: ["verein"]
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 

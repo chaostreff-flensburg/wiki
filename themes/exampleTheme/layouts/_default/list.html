@@ -1,4 +1,4 @@
-{{ define "main" }}
+{{ define "main2" }}
 <h1>{{ .Title }}</h1>
 {{ range .Pages.ByPublishDate.Reverse }}
 <p>
@@ -8,4 +8,22 @@
     </a>
 </p>
 {{ end }}
+{{ end }}
+
+
+{{ define "main" }}
+<div class="row">
+    <div class="col-md-3">
+        {{ partial "menu.html" . }}
+    </div>
+    <div class="col-md-9">
+        <h1>{{ .Title }}</h1>
+        <ul>
+            {{ range .Pages.ByPublishDate.Reverse }}
+            <li><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+ 
+    </div>
+</div>
 {{ end }}
