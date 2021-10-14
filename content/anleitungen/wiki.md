@@ -7,7 +7,20 @@ categories: ["anleitung"]
 ---
 
 ## Infobox
-Die Infobox soll für Profile und Projektseiten genutzt werden.
+Die Infobox soll für Profile und Projektseiten genutzt werden. Es handelt sich hierbei um die Box die auf der rechten Seite angezeigt wird.
+
+{{<gist kekskurse 726028597eaac1e3aa91fc92fabd35d6 >}}
+
+Es gibt folgende Parameter
+
+* **name** -> Name der Person oder des Projektes
+* **img** -> URL zu einem Bild, komplette url
+* **twitter** -> Twitter Name (ohne @ oder http, nur der name) 
+* **webpage** -> Webpage Name (ohne http, es wird automatisch auf https weitergeleitet)
+* **mail** -> E-Mail adresse
+* **instagram** -> Instagram Nutzername (ohne @ oder http)
+* **ort** -> Wo es sich im Space befindet (nicht für Personen gedacht)
+* **contact** -> Liste von Ansprechpartner, durch ein kommer getrennt (nicht für Personen gedacht)
 
 ## Design 
 
