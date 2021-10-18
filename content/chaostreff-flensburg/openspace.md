@@ -2,7 +2,7 @@
 title: "Open Space"
 date: 2020-01-28T00:34:13+09:00
 draft: false
-categories: ["verein"]
+categories: ["chaostreff"]
 ---
 
 **BITTE DIE AKTUELLEN [Covid Hygieneverordnung](/verein/corona/) beachten!**

@@ -3,7 +3,7 @@ title: "Getränke"
 description: "Getränke und Mate wand"
 date: 2020-01-28T00:34:13+09:00
 draft: false
-categories: ["verein"]
+categories: ["chaostreff"]
 ---
 
 # Preise

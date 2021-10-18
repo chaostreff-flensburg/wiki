@@ -3,7 +3,7 @@ title: "Handbuch"
 date: 2020-01-26T23:11:13Z
 draft: false
 tags: ["neumitglieder"]
-categories: ["verein"]
+categories: ["chaostreff"]
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor 
