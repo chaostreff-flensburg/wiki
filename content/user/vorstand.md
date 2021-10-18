@@ -7,8 +7,10 @@ draft: false
 name="Vorstand" 
 mail="vorstand@chaostreff-flensburg.de"
 >}}
-1 Vorsitzender: Samuel Brinkmann
+1 Vorsitzender: [scammo](/user/scammo)
 
-2 Vorsitzender: ???
+2 Vorsitzender: homwer
 
-Kassenwart: ???
+Kassenwart: flpe
+
+Gewählt auf Mitgliederversammlung: 11.09.2021
