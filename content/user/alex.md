@@ -6,7 +6,7 @@ draft: false
 {{< info 
 name="Alex" 
 img="https://eine.pizza/alex.jpg"
-twitter="kekskurse"
+twitter="pfannkuchensack"
 webpage="www.eichhorn.dev"
 mail="alex@will.knutschen.jetzt"
 instagram="vralex"
