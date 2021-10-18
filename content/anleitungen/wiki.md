@@ -16,7 +16,7 @@ Clone das Repository von [Github](https://github.com/chaostreff-flensburg/wiki) 
 git clone git@github.com:chaostreff-flensburg/wiki.git
 ```
 
-danach kannst du die [Markdown](https://guides.github.com/features/mastering-markdown/) Datein om "content" folder anpassen. Wenn du damit fertig bist pushe die änderungen, die wiki seite wird nach einigen Sekunden automatisch aktualisiert.
+danach kannst du die [Markdown](https://guides.github.com/features/mastering-markdown/) Datein im "content" folder anpassen. Wenn du damit fertig bist pushe die änderungen, die wiki seite wird nach einigen Sekunden automatisch aktualisiert.
 
 ### Vorbereitung Windows
 
@@ -24,7 +24,7 @@ danach kannst du die [Markdown](https://guides.github.com/features/mastering-mar
 
 ### Eine Seite bearbeiten oder anlegen.
 
-Du kannst im content Ordner eine neue Seite anlegen in dem du eine neue Datei mit der endunbg ".md" anlegst. Wichtig ist das du am anfang der Datei folgende zeilen einfügst und bearbeitest
+Du kannst im content Ordner eine neue Seite anlegen in dem du eine neue Datei mit der Endung ".md" anlegst. Wichtig ist das du am anfang der Datei folgende zeilen einfügst und bearbeitest
 
 ```
 ---
@@ -34,7 +34,7 @@ categories: ["XXXX"]
 ---
 ```
 
-Ändere die werte basierend auf dem titel und der categorie, du kannst eine neue categorie nutzten oder auf der Startseite dir eine der bestehenden wie z.B. "verein" oder "werkzeug" aussuchen. Die Kategorie wird klein geschrieben.
+Ändere die Werte basierend auf dem titel und der categorie, du kannst eine neue categorie nutzten oder auf der Startseite dir eine der bestehenden wie z.B. "verein" oder "werkzeug" aussuchen. Die Kategorie MUSS klein geschrieben werden.
 
 Unter den zweiten --- kannst du den Inhalt der Seite schreiben, schaue dir am besten anderen Seiten aus der selben Kategorie als Beispiel an.
 
