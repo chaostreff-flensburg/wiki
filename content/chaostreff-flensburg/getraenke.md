@@ -11,7 +11,7 @@ categories: ["chaostreff"]
 1 Getränk = 1 Kabel = 1 Euro
 
 # Matewand
-{{< info name="Matewand" img="/verein/getraenke/hexagn.jpg" twitter="kekskurse" mail="hello@kekskurse.de" webpage="www.kekskurse.de" contact="scammo" >}}
+{{< info name="Matewand" img="/verein/getraenke/hexagn.jpg" contact="scammo" >}}
 
 
 3D Drucke ein Hexagon (Hexagon is the bestagon) mit deinem Namen und befestige es an der Mate-Wand. Danach kannst du pro Getränk ein Kabel an deinem Hexagon befestigen.

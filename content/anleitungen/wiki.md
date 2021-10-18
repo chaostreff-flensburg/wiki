@@ -5,6 +5,38 @@ draft: false
 tags: ["needtobeupdated"]
 categories: ["anleitung"]
 ---
+{{< info name="Hugo Wiki"  contact="soeren" >}}
+Das Wiki ist eine [Hugo](https://gohugo.io/) Seite die mit einer [Github Action](https://github.com/chaostreff-flensburg/wiki/actions) gebaut wird und auf Github Pages liegt.
+
+### Vorbereitung Linux / Mac
+
+Clone das Repository von [Github](https://github.com/chaostreff-flensburg/wiki) auf deinen Rechner.
+
+```
+git clone git@github.com:chaostreff-flensburg/wiki.git
+```
+
+danach kannst du die [Markdown](https://guides.github.com/features/mastering-markdown/) Datein om "content" folder anpassen. Wenn du damit fertig bist pushe die änderungen, die wiki seite wird nach einigen Sekunden automatisch aktualisiert.
+
+### Vorbereitung Windows
+
+*comming soon*
+
+### Eine Seite bearbeiten oder anlegen.
+
+Du kannst im content Ordner eine neue Seite anlegen in dem du eine neue Datei mit der endunbg ".md" anlegst. Wichtig ist das du am anfang der Datei folgende zeilen einfügst und bearbeitest
+
+```
+---
+title: "XXXX"
+date: 2020-01-26T23:11:13Z
+categories: ["XXXX"]
+---
+```
+
+Ändere die werte basierend auf dem titel und der categorie, du kannst eine neue categorie nutzten oder auf der Startseite dir eine der bestehenden wie z.B. "verein" oder "werkzeug" aussuchen. Die Kategorie wird klein geschrieben.
+
+Unter den zweiten --- kannst du den Inhalt der Seite schreiben, schaue dir am besten anderen Seiten aus der selben Kategorie als Beispiel an.
 
 ## Infobox
 Die Infobox soll für Profile und Projektseiten genutzt werden. Es handelt sich hierbei um die Box die auf der rechten Seite angezeigt wird.
