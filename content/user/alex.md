@@ -9,6 +9,6 @@ img="https://eine.pizza/alex.jpg"
 twitter="pfannkuchensack"
 webpage="www.eichhorn.dev"
 mail="alex@will.knutschen.jetzt"
-instagram="vralex"
+instagram="vr_alex89"
 >}}
 Hallo
