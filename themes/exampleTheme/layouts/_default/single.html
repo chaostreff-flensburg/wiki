@@ -1,11 +1,11 @@
 {{ define "main" }}
-<div class="row">
+<div class="row" style="padding-top:30px;">
     <div class="col-md-3">
         {{ partial "menu.html" . }}
     </div>
     <div class="col-md-9">
+        <a href="https://github.com/chaostreff-flensburg/wiki/blob/master/content/{{ .File.Path }}" class="btn btn-outline-primary btn-sm" style="float:right;">Edit on Github</a>
         <h1>{{ .Title }}</h1>
-        <br><br>
         {{ .Content }}
         <hr>
         Tags:
