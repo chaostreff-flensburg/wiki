@@ -6,3 +6,6 @@ tags: ["needtobeupdated"]
 categories: ["werkzeug"]
 ---
 Alltes Wiki veraltet, sollte neu gemacht werden.
+
+## Prusa Mini+
+Wir haben zwei Prusa Mini+. Sie sind sehr gut.
