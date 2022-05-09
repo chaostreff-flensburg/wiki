@@ -12,6 +12,7 @@ Aufgrund der baulichen gegebenheiten haben wir nur eine bestimmte Anzahl von Phy
 - Flemming
 - Scammo
 - Alex
+- Spralexx
 
 Damit nachvollziehbar ist wer welchen Schlüssel hat, soll das beim verleihen eines Schlüssels immer in den Chat geschrieben werden. Für die Info wann Mitglieder im Space sind gibt es im Chat den #space Channel.
 
