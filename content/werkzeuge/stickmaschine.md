@@ -5,7 +5,7 @@ categories: ["werkzeug"]
 tags: ["making", "creative"]
 ---
 
-{{< info name="Stickmaschine"  contact="Lana" >}}
+{{< info name="Stickmaschine"  contact="lana" >}}
 
 ## Daten zur Stickmaschine
 
@@ -26,7 +26,7 @@ Zur Stickmaschine gehört:
 
 ## Material dass du zum Sticken brauchst
 
-* USB Stick (Achtung: Es werden nur USB Sticks von der Kompatibilitätsliste für USB-Medien (https://support.brother.com/g/b/manualtop.aspx?c=de&lang=de&prod=hf_inov800eeuk) akzeptiert)
+* USB Stick (Achtung: Es werden nur USB Sticks von der [Kompatibilitätsliste für USB-Medien](https://support.brother.com/g/b/manualtop.aspx?c=de&lang=de&prod=hf_inov800eeuk) akzeptiert)
 * Unterfaden + Spule
 * Stickgarn (ggf in mehreren Farben)
 * Schere
