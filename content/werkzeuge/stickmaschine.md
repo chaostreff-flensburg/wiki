@@ -88,7 +88,7 @@ Hast du kein finanzielles Limit, dann fühlich dich frei mit teurer Marken-Softw
 
 ## Stickdateien
 
-###Dateiformate
+### Dateiformate
 Du hast Spaß an kuriosen Dateiformaten? Dann werden dir Stickdatei-Formate so viel Spaß machen.
 Falls nicht, dann achte darauf, dass du Dateien in den oben genannten untertützten Dateiformaten exportierst, oder kaufst.
 Je nach Dateiformat kann es sein, dass die Farben nicht korrekt auf der Maschine angezeigt werden. Das macht aber nichts. schaue auf dem Bildschirm welche Farbe an welcher Stelle ist und Fädel dann für die Stellen das von dir gewollte Garn ein.
@@ -168,7 +168,7 @@ Das Chaotikum in Lübeck besitzt ebenfalls eine Stickmaschine:
 ### Hilfe mein Unterfaden kommt hoch.
 Der Faden, welcher unter der Nadel in die Maschine eingefädelt ist, ist der Unterfaden. 
 Wenn die Farbe die du möchstest nicht als solche im Stickmuster erscheint, sondern die Farbe des Unterfadens zu sehen ist, dann kommt der Unterfaden hoch.
-![Unterfadenprobleme](../../images/unterfaden.jpeg)
+![Unterfadenprobleme](/../../images/unterfaden.jpeg)
 Im linken Bild ist dies sehr gut zu sehen. Der weiße Unterfaden ist zu sehen, die Farbe die das Stickmuster eigentlich haben sollte nicht mehr.
 Das Problem liegt ein einer falschen Ober- oder Unterfadenspannung.
 Schaue dafür ob alle Fäden und Spuhlen wirktlich korrekt eingädelt wurden und mache es genau nach Anleitung.
