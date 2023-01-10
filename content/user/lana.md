@@ -6,7 +6,7 @@ draft: false
 {{< info 
 name="Lana" 
 img="https://lana.coffee/images/logo.svg"
-twitter="_dasUnicron_"
+twitter="_dasUnicorn_"
 webpage="www.lana.coffee"
 mail="hi@lana.coffee"
 >}}
