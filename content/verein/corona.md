@@ -5,6 +5,8 @@ draft: false
 categories: ["verein", "chaostreff"]
 ---
 
+> Diese Hygieneordnung gilt aktuell nicht.
+
 Im Space des Chaostreff Flensburg e.V. sind folgende Regeln zu beachten:
 
 * Es gilt für Mitglieder und Gäste die 2G Regelung (Geimpft/Genesen).
@@ -15,4 +17,4 @@ Im Space des Chaostreff Flensburg e.V. sind folgende Regeln zu beachten:
 * Personen, die Hochinzidenzgebiete oder Variantengebiete besucht haben, mögen nach der Rückkehr das Risiko verantwortungsvoll bewerten. Im Zweifel ist dem Space fernzubleiben.
 * Diese Regeln gelten solange, wie die aktuellen Corona Verordnungen es erlauben.
 
-Diese Hygieneordnung gilt ab dem 27. September 2021, bis sich wieder etwas ändert.
+Diese Hygieneordnung gilt aktuell nicht.
