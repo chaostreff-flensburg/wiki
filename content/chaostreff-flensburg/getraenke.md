@@ -8,7 +8,7 @@ categories: ["chaostreff"]
 
 # Preise
 
-1 Getränk = 1 Kabel = 1 Euro
+1 Getränk = 1 Kabel = 1,5 Euro
 
 # Matewand
 {{< info name="Matewand" img="/verein/getraenke/hexagn.jpg" contact="scammo" >}}
