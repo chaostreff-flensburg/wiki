@@ -20,3 +20,16 @@ Unter Slicing versteht man die Umwandlung von 3D-Dateien (z.B. einer .stl-Datei)
 
 ### Drucken
 Am einfachsten ist es, die zu druckende Datei zu slicen und den gcode auf einem USB Stick zu speichern. Dann kannst du den USB Stick in den 3D Drucker stecken. Auf dem Display des Druckers kannst du dann die Datei auswählen und drucken.
+
+### 3D-Dateien entwerfen
+Natürlich kann man auch eigene 3D-Dateien erstellen/gestalten und diese dann ausdrucken. Dafür gibt es verschiedene Software.
+## Tinkercad
+Für komplette Anfänger*innen eignet sich [tinkercad](https://www.tinkercad.com/). Hier kann man einfach im Browser mit der Maus verschiedene Objekte zusammenbauen und dann als 3D-Datei exportieren.
+
+Wenn ihr bei uns im Workshop seid, könnt ihr einfach auf 
+1. [zum tinkercad Login gehen](https://www.tinkercad.com/login). 
+2. Zugangsdaten: E-Mail: `workshop [at] chaostreff-flensburg [punkt] de` und Passwort `Flensburg54`.
+3. Du solltest nun auf das [Dashboard](https://www.tinkercad.com/dashboard) weitergeleitet worden sein.
+4. klicke auf "+ Erstellen" -> "3D-Designs" auswählen
+5. auf der rechten Seite kannst du nun 3D-Objekte aufziehen und miteinander kombinieren
+6. Wenn du fertig bist, klicke auf "Exportieren" -> ".STL" und dein Design wird als 3D-Datei heruntergeladen.
