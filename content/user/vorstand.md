@@ -13,4 +13,4 @@ mail="vorstand@chaostreff-flensburg.de"
 
 Kassenwart: flpe
 
-Gewählt auf Mitgliederversammlung: 11.09.2021
+Gewählt auf Mitgliederversammlung:  07.10.2023
