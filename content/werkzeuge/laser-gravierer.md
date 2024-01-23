@@ -14,3 +14,7 @@ categories: ["werkzeug"]
 ## ATOMSTACK A5 Pro
 
 [Bedieungsanleitung (extern)](https://de.manuals.plus/atomstack/a5-pro-laser-engraver-manual#axzz8I30f8zYX).
+
+## Software
+
+* [Lightburn](https://lightburnsoftware.com/) (kostenpflichtig)
