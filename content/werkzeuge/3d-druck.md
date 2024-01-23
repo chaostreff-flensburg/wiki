@@ -6,7 +6,7 @@ tags: ["needtobeupdated"]
 categories: ["werkzeug"]
 ---
 
-> Diese Seite ist noch nicht fertig. Bitte ergänzen.
+> Diese Seite kann gerne ergänzt werden.
 
 ## Prusa Mini+
 Wir haben zwei [Prusa Mini+](https://www.prusa3d.com/de/kategorie/original-prusa-mini/). Sie sind sehr gut.
@@ -14,6 +14,10 @@ Wir haben zwei [Prusa Mini+](https://www.prusa3d.com/de/kategorie/original-prusa
 [Prusa mini 1](https://ausleihe.chaostreff-flensburg.de/items/1)
 [Prusa mini 2](https://ausleihe.chaostreff-flensburg.de/items/2)
 
+## Prusa MK4
+Wir haben einen [Prusa MK4](https://www.prusa3d.com/de/produkt/original-prusa-mk4-2/). Er ist sehr gut und viel größer als die Prusa Mini. 
+
+Wir einen 
 
 ### Slicen
 Unter Slicing versteht man die Umwandlung von 3D-Dateien (z.B. einer .stl-Datei) in eine Befehlsfolge für den 3D-Drucker (.gcode-Datei). Dazu gibt es verschiedene Programme, die Slicer genannt werden. Wir verwenden [PrusaSlicer](https://www.prusa3d.com/de/page/prusaslicer_424/). Dieses Programm ist kostenlos. Er ist für Prusa-Drucker optimiert, funktioniert aber auch mit anderen Druckern.
