@@ -1,6 +1,6 @@
 ---
 title: "Button-Maschine"
-date: 2022-10-18T23:11:13Z
+date: 2024-01-28T23:11:13Z
 categories: ["werkzeug"]
 tags: ["making", "creative", "handartbeit"]
 ---
@@ -9,4 +9,9 @@ tags: ["making", "creative", "handartbeit"]
 
 {{< info name="Button-Maschine"  contact="jan" >}}
 
-## Button-Maschine
+## Button-Maschine - 25 + 32 + 58 mm
+
+[Gekauft bei Amazon](https://www.amazon.de/dp/B0BHZZX13N)
+
+### Button Logs:
+* [Erste Versuche auf Mastodon](https://chaos.social/@chaos_fl/111833819883834900)
