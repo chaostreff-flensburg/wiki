@@ -1,13 +1,13 @@
 ---
-title: "Try me leds"
-date: 2024-02-27T23:11:13Z
+title: "Try me LEDs"
+date: 2024-02-27T22:11:13Z
 draft: false
 categories: ["projekte"]
 ---
 
 Mit den Try me LEDs kannst du spielerisch deine Fähigkeiten im Programmieren von LEDs ausprobieren.
 
-Du kannst den "Arduino Programmable" einfach mit deinem Skript programmieren. Am besten verwendest du dazu die Fastled Bibliothek. Oben auf dem "Schalter" kannst du einstellen, welcher Arduino den LED-Streifen programmiert. Auf dem "Arduino Demo" läuft immer das Fastled Demo Script.
+Du kannst den "Arduino Programmierbar" einfach mit deinem Skript programmieren. Am besten verwendest du dazu die Fastled Bibliothek. Oben auf dem "Schalter" kannst du einstellen, welcher Arduino den LED-Streifen programmiert. Auf dem "Arduino Demo" läuft immer das Fastled Demo Script.
 
 
 ## Beispiel Code zwei Durchlaufende LEDs
