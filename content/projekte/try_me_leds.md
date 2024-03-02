@@ -14,7 +14,7 @@ Du kannst den "Arduino Programmierbar" einfach mit deinem Skript programmieren. 
 
 ## Weitere Resourcen
 
-- [LED Matrix Display - OER Jugendhackt](https://cloud.okfn.de/s/qzJcxZf8WF97EKb?dir=undefined&openfile=79765)
+- [LED Matrix Display - OER Jugendhackt(PDF)](https://cloud.okfn.de/s/qzJcxZf8WF97EKb?dir=undefined&openfile=79765)
 
 ## Beispiel Code zwei Durchlaufende LEDs
 
