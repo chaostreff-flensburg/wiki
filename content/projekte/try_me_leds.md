@@ -12,6 +12,9 @@ Mit den Try me LEDs kannst du spielerisch deine Fähigkeiten im Programmieren vo
 
 Du kannst den "Arduino Programmierbar" einfach mit deinem Skript programmieren. Am besten verwendest du dazu die Fastled Bibliothek. Oben auf dem "Schalter" kannst du einstellen, welcher Arduino den LED-Streifen programmiert. Auf dem "Arduino Demo" läuft immer das Fastled Demo Script.
 
+## Weitere Resourcen
+
+- [LED Matrix Display - OER Jugendhackt](https://cloud.okfn.de/s/qzJcxZf8WF97EKb?dir=undefined&openfile=79765)
 
 ## Beispiel Code zwei Durchlaufende LEDs
 
