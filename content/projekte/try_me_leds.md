@@ -56,8 +56,7 @@ void loop() {
 
 ![Schaltverbindung try me leds](/try-me-leds/try-me-leds_Steckplatine.png)
 
-[Fritzing Datei](
-![Schaltverbindung try me leds](/try-me-leds/try-me-leds.fzz))
+[Schaltverbindung try me leds](/try-me-leds/try-me-leds.fzz))
 
 ## Historie
 
