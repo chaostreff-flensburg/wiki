@@ -5,7 +5,7 @@ draft: false
 categories: ["projekte"]
 ---
 
-{{< info name="Try me LEDs" img="/try_me_leds_1.jpg" contact="scammo" >}}
+{{< info name="Try me LEDs" img="/try-me-leds-2024-03-12_low.jpg" contact="scammo" >}}
 
 
 Mit den Try me LEDs kannst du spielerisch deine Fähigkeiten im Programmieren von LEDs ausprobieren.
@@ -52,7 +52,7 @@ void loop() {
 }
 ```
 
-## Todos
-- Verkabelung permanenter machen (z.B. alles relevante verlöten)
-- An "Arduino Programmierbar" noch Sensoren anschließen
-- Mehr Beispiel Anleitungen erstellen
+## Historie
+
+Aller erste Version:
+![Aller erste Version Try me leds](/try_me_leds_1.jpg)
