@@ -5,7 +5,7 @@ draft: false
 categories: ["projekte"]
 ---
 
-{{< info name="Try me LEDs" img="/try-me-leds-2024-03-12_low.jpg" contact="scammo" >}}
+{{< info name="Try me LEDs" img="/try-me-leds/try-me-leds-2024-03-12_low.jpg" contact="scammo" >}}
 
 
 Mit den Try me LEDs kannst du spielerisch deine Fähigkeiten im Programmieren von LEDs ausprobieren.
@@ -52,7 +52,14 @@ void loop() {
 }
 ```
 
+## Verbindung
+
+![Schaltverbindung try me leds](/try-me-leds/try-me-leds_Steckplatine.png)
+
+[Fritzing Datei](
+![Schaltverbindung try me leds](/try-me-leds/try-me-leds.fzz))
+
 ## Historie
 
 Aller erste Version:
-![Aller erste Version Try me leds](/try_me_leds_1.jpg)
+![Aller erste Version Try me leds](/try-me-leds/try_me_leds_1.jpg)
