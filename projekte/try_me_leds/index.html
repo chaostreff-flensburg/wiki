@@ -38,7 +38,19 @@ void loop() {
     }
 }
 </code></pre><h2 id=verbindung>Verbindung</h2><p><img src=/try-me-leds/try-me-leds_Steckplatine.png alt="Schaltverbindung try me leds"></p><p><a href=/try-me-leds/try-me-leds.fzz>Schaltverbindung try me leds</a>)</p><h2 id=historie>Historie</h2><p>Aller erste Version:
-<img src=/try-me-leds/try_me_leds_1.jpg alt="Aller erste Version Try me leds"></p><h2 id=demoreel-100-auf-dem-arduino-demo>DemoReel 100 auf dem &ldquo;Arduino DEMO&rdquo;</h2><pre tabindex=0><code>/// @file    DemoReel100.ino
+<img src=/try-me-leds/try_me_leds_1.jpg alt="Aller erste Version Try me leds"></p><h2 id=leds-mit-potentiometer>LEDs mit Potentiometer</h2><p>Schließe einen Potentiometer an den A0 (Analog 0) Pin und ändere dann folgenden Code:</p><pre tabindex=0><code>void loop() { 
+    for (int i = 0; i &lt;= NUM_LEDS; i++) {
+      leds[i-2] = CRGB::Black;
+      leds[i-1] = CRGB::Black;
+      leds[i] = CRGB::Green;
+      leds[i+1] = CRGB::Green;
+      FastLED.show();
+      // map(value, fromLow, fromHigh, toLow, toHigh)
+      delay(map(analogRead(A0), 0, 255, 0, 400));
+      Serial.println(A0);
+    }
+}
+</code></pre><p><a href=https://www.arduino.cc/reference/en/language/functions/math/map/>map() infos in der Arduino Doku</a></p><h2 id=demoreel-100-auf-dem-arduino-demo>DemoReel 100 auf dem &ldquo;Arduino DEMO&rdquo;</h2><pre tabindex=0><code>/// @file    DemoReel100.ino
 /// @brief   FastLED &#34;100 lines of code&#34; demo reel, showing off some effects
 /// @example DemoReel100.ino
 
@@ -166,4 +178,4 @@ void juggle() {
     dothue += 32;
   }
 }
-</code></pre><hr>Tags:</div></div></div><div class=container><footer class="row row-cols-5 py-5 my-5 border-top"><div class=col><a href=/ class="d-flex align-items-center mb-3 link-dark text-decoration-none"><svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg></a><p class=text-muted>&copy; 2024</p></div><div class=col></div><div class=col></div><div class=col><h5>Dienste</h5><ul class="nav flex-column"><li class="nav-item mb-2"><a href=https://md.ctfl.space/ class="nav-link p-0 text-muted">Codi MD</a></li><li class="nav-item mb-2"><a href=https://cloud.chaostreff-flensburg.de/ class="nav-link p-0 text-muted">Nextcloud</a></li></ul></div><div class=col><h5>Chaostreff</h5><ul class="nav flex-column"><li class="nav-item mb-2"><a href=https://www.flickr.com/photos/157585171@N05/ class="nav-link p-0 text-muted">Flickr</a></li><li class="nav-item mb-2"><a href=https://github.com/chaostreff-flensburg/ class="nav-link p-0 text-muted">Github</a></li><li class="nav-item mb-2"><a href=https://chaostreff-flensburg.de/ class="nav-link p-0 text-muted">Webseite</a></li><li class="nav-item mb-2"><a href=https://wiki.chaostreff-flensburg.de/ class="nav-link p-0 text-muted">Wiki</a></li></ul></div></footer></div></body></html>
+</code></pre><h2 id=sonstiges>Sonstiges</h2><p><a href=https://www.printables.com/de/model/473014-usb-b-port-cap>USB B dust cover stl</a></p><hr>Tags:</div></div></div><div class=container><footer class="row row-cols-5 py-5 my-5 border-top"><div class=col><a href=/ class="d-flex align-items-center mb-3 link-dark text-decoration-none"><svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg></a><p class=text-muted>&copy; 2024</p></div><div class=col></div><div class=col></div><div class=col><h5>Dienste</h5><ul class="nav flex-column"><li class="nav-item mb-2"><a href=https://md.ctfl.space/ class="nav-link p-0 text-muted">Codi MD</a></li><li class="nav-item mb-2"><a href=https://cloud.chaostreff-flensburg.de/ class="nav-link p-0 text-muted">Nextcloud</a></li></ul></div><div class=col><h5>Chaostreff</h5><ul class="nav flex-column"><li class="nav-item mb-2"><a href=https://www.flickr.com/photos/157585171@N05/ class="nav-link p-0 text-muted">Flickr</a></li><li class="nav-item mb-2"><a href=https://github.com/chaostreff-flensburg/ class="nav-link p-0 text-muted">Github</a></li><li class="nav-item mb-2"><a href=https://chaostreff-flensburg.de/ class="nav-link p-0 text-muted">Webseite</a></li><li class="nav-item mb-2"><a href=https://wiki.chaostreff-flensburg.de/ class="nav-link p-0 text-muted">Wiki</a></li></ul></div></footer></div></body></html>
