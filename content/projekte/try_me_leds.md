@@ -65,6 +65,26 @@ void loop() {
 Aller erste Version:
 ![Aller erste Version Try me leds](/try-me-leds/try_me_leds_1.jpg)
 
+## LEDs mit Potentiometer
+
+Schließe einen Potentiometer an den A0 (Analog 0) Pin und ändere dann folgenden Code:
+
+```
+void loop() { 
+    for (int i = 0; i <= NUM_LEDS; i++) {
+      leds[i-2] = CRGB::Black;
+      leds[i-1] = CRGB::Black;
+      leds[i] = CRGB::Green;
+      leds[i+1] = CRGB::Green;
+      FastLED.show();
+      // map(value, fromLow, fromHigh, toLow, toHigh)
+      delay(map(analogRead(A0), 0, 255, 0, 400));
+      Serial.println(A0);
+    }
+}
+```
+
+[map() infos in der Arduino Doku](https://www.arduino.cc/reference/en/language/functions/math/map/)
 
 ## DemoReel 100 auf dem "Arduino DEMO"
 
@@ -199,3 +219,7 @@ void juggle() {
 }
 
 ```
+
+## Sonstiges
+
+[USB B dust cover stl](https://www.printables.com/de/model/473014-usb-b-port-cap)
