@@ -12,7 +12,7 @@ Dauerleihgabe der 54Grad Software UG
 ## Daten zum Folienplotter
 
 **Brother ScanNCut CM900**
-Ist die "Textilmaschine" unter der CM-Serie. Diese Maschine verfügt ebenfalls wie der CM750 über einen eingebauten 300 dpi Scanner und einem größeren 4,8 Zoll Display von dem aus direkt gearbeitet werden kann. Es können mit dem CM900 neben des SVG Dateien auch PES Dateien verarbeitet werden. Bei diesem Gerät ist auch alles was du an Zubehör zum schneiden von Textilien benötigst bereit im Lieferumfang enthalten.[https://plottspot.de/p/brother-scanncut-cm900](von plottspot.de)
+Ist die "Textilmaschine" unter der CM-Serie. Diese Maschine verfügt ebenfalls wie der CM750 über einen eingebauten 300 dpi Scanner und einem größeren 4,8 Zoll Display von dem aus direkt gearbeitet werden kann. Es können mit dem CM900 neben des SVG Dateien auch PES Dateien verarbeitet werden. Bei diesem Gerät ist auch alles was du an Zubehör zum schneiden von Textilien benötigst bereit im Lieferumfang enthalten.[(von plottspot.de)](https://plottspot.de/p/brother-scanncut-cm900)
 
 ## Handbuch
 
@@ -26,7 +26,7 @@ Ist die "Textilmaschine" unter der CM-Serie. Diese Maschine verfügt ebenfalls w
 
 ## Anleitung
 
-Hier ein [https://www.youtube.com/watch?v=f-u58itTouk](Erklär-Video)
+Hier ein [Erklär-Video](https://www.youtube.com/watch?v=f-u58itTouk)
 
 ### Datei Plotten
 
@@ -35,7 +35,7 @@ Hier ein [https://www.youtube.com/watch?v=f-u58itTouk](Erklär-Video)
 Plotter mit Strom verbinden und per Start-Knopf anschalten.
 Richte vor und hinter dem Plotter genug Platz ein, damit der Plotter die Schneidematte später optimal einziehen und ausgeben kann.
 Schneidemesser-Länge über das Rad passend zum Vinyl einstellen und in den Plotter einsetzen.
-Eine genaue Auflistung der Messereinstellungen [https://support.brother.com/g/b/faqend.aspx?c=de&lang=de&prod=hf_cm900euk&faqid=faqh00000712_001](hat Brother zusammen gestellt.)
+Eine genaue Auflistung der Messereinstellungen [hat Brother zusammen gestellt.](https://support.brother.com/g/b/faqend.aspx?c=de&lang=de&prod=hf_cm900euk&faqid=faqh00000712_001)
 Anschließend den grauen Hebel nach unten drücken.
 
 #### Folie vorbereiten
@@ -60,7 +60,7 @@ Für Testdrucke können nun unter 'Test', testformen asugewählt werden. testfor
 
 Pattern auswählen.
 Für ein Custom pattern brauchst du nur eine SVG oder FCM Datei.
-_Kein mühsames Konvertieren von SVG-Dateien mehr: der CM900 kann SVG-Dateien direkt verarbeiten, ohne dass sie zuvor in FCM-Dateien umgewandelt werden müssen._ [https://www.brother.eu/-/media/product-downloads/bsme/de/scanncut_cm900_de.pdf](Brother EU, Produktinfo)
+_Kein mühsames Konvertieren von SVG-Dateien mehr: der CM900 kann SVG-Dateien direkt verarbeiten, ohne dass sie zuvor in FCM-Dateien umgewandelt werden müssen._ [Brother EU, Produktinfo](https://www.brother.eu/-/media/product-downloads/bsme/de/scanncut_cm900_de.pdf)
 Aber nicht optimierte SVG Dateien sind schnell zu komplex für den Plotter und bieten sich daher für einfach Motive an. Für Komplexe Motive möchtest du ein FCM File.
 
 ### Schneidematte einlegen
