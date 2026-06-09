@@ -33,7 +33,12 @@ Um den Plotter unter Windows verwenden zu können, muss er als Drucker eingerich
 
 in Inkcut
 
-1. ToDo
+1. neues Gerät hinzufügen
+1. Generischen Treiber "Inkcut Generic Driver" auswählen
+1. Eindeutigen Namen vergeben
+1. Unter dem Tab "Verbindung" den Typ "Printer" auswählen, unter Port dann den Plotter auswählen
+1. Im Tab "Protokoll" "HPGL" als Sprache wählen und "Pad commands with line feed" aktivieren
+1. fertig
 
 ### Einrichtung unter Linux
 
